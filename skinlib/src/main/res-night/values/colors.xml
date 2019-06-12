@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!--更换皮肤涉及到的颜色值-->
+    <color name="skin_night">#666666</color>
+    <color name="checkbox_text_right_night">#666666</color>
 
 </resources>
